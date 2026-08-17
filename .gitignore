@@ -6,6 +6,7 @@
 *.pem
 secrets.json
 credentials.json
+myenv
 
 # Python
 __pycache__/
